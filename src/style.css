@@ -62,3 +62,28 @@
     grid-template-columns: 1fr;
   }
 }
+/* Center Loader */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* Full screen height */
+}
+
+/* Fixed Footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #222;
+  color: white;
+  cursor: pointer;
+}
+
+.credit:hover {
+  color: #ffcc00;
+}
