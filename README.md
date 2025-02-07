@@ -1,7 +1,7 @@
 # Project Name: AxiosMenuUI
 Project point: external api is fetched using axios
 
-*This project is deployed on Vercel.
+This project is deployed on Vercel.
 
 ## Live Demo
 
